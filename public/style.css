@@ -1,0 +1,13 @@
+#video-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+video {
+  width: 300px;
+  height: 300px;
+}
+p {
+  color: blue;
+}
